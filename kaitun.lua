@@ -18,7 +18,7 @@ repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
         ["White Screen"] = false,
         ["Lock Fps"] = {
             ["Enabled"] = false,
-            ["FPS"] = 20,
+            ["FPS"] = 60,
         },
         ["Get Items"] = {
             ["Saber"] = true,
